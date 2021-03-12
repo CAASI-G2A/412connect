@@ -96,6 +96,25 @@ h2 {
 	font-size: 4vmin;
 }
 
+/*contact.html specific CSS*/
+.contact-jumbo-header {
+	background-color: #2B70E4;
+}
+
+.contact-jumbo-header h1{
+	color: #FFB81C;
+}
+
+.contact-main-color {
+    background-color: #FFFFFF;
+}
+
+.contact-img {
+    width: 65%;
+    height: auto;
+}
+/*end of contact.html specific CSS*/
+
 .main-color {
 	background-color: #C4C4C4 !important;
 }
