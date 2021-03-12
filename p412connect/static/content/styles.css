@@ -33,9 +33,16 @@ h2 {
 	font-size: 6vh !important;
 }
 
+/* landing.html specific CSS */
 .landing {
 	color: #FFF;
 	background-color: rgba(255, 255, 255, 0.25);
+}
+
+.landing-jumbo {
+	padding-top: 20% ;
+	padding-bottom: 20% ;
+	margin-bottom: 0 ;
 }
 
 .landing-header {
@@ -95,6 +102,7 @@ h2 {
 	font-weight: 300;
 	font-size: 4vmin;
 }
+/* end of landing.html specific CSS */
 
 /*contact.html specific CSS*/
 .contact-jumbo-header {
@@ -151,12 +159,6 @@ h2 {
 }
 .pad-bot-lg {
 	padding-bottom: 5em;
-}
-
-.jumbo {
-	padding-top: 20% !important;
-	padding-bottom: 20% !important;
-	margin-bottom: 0 !important;
 }
 
 .navbar-brand img {
